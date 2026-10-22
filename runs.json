@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "updated": "2026-10-21T21:42:27Z",
- "repo": "JohnQinAMD/FlyDSL-amd",
+ "updated": "2026-10-22T04:44:13Z",
+ "repo": "JohnQin-llm/FlyDSL-amd",
  "runs": [
   {
    "run_id": 30953262917,
@@ -12,10 +12,10 @@
    "title": "Merge pull request #4 from JohnQinAMD/codex/refactor-v4-sparse-decode",
    "status": "completed",
    "conclusion": "cancelled",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30953262917",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30953262917",
    "created_at": "2026-08-04T21:39:35Z",
    "updated_at": "2026-08-05T21:40:21Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -27,10 +27,10 @@
    "title": "Refactor DSV4 sparse decode kernel",
    "status": "completed",
    "conclusion": "cancelled",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30953067798",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30953067798",
    "created_at": "2026-08-04T21:36:45Z",
    "updated_at": "2026-08-05T21:37:29Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -42,7 +42,7 @@
    "title": "Refactor DSV4 sparse decode kernel",
    "status": "completed",
    "conclusion": "failure",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30952117596",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30952117596",
    "created_at": "2026-08-04T21:23:17Z",
    "updated_at": "2026-09-03T21:27:09Z",
    "actor": "Copilot",
@@ -57,10 +57,10 @@
    "title": "Refactor DSV4 sparse decode kernel",
    "status": "completed",
    "conclusion": "cancelled",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30951867912",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30951867912",
    "created_at": "2026-08-04T21:19:47Z",
    "updated_at": "2026-08-04T21:36:47Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -72,10 +72,10 @@
    "title": "Refactor DSV4 sparse decode kernel",
    "status": "completed",
    "conclusion": "failure",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30951730514",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30951730514",
    "created_at": "2026-08-04T21:17:50Z",
    "updated_at": "2026-08-04T21:18:37Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -87,10 +87,10 @@
    "title": "Merge pull request #3 from JohnQinAMD/fix/mla-prefill-correctness-gate",
    "status": "completed",
    "conclusion": "failure",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30375965347",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30375965347",
    "created_at": "2026-07-28T15:58:08Z",
    "updated_at": "2026-07-28T15:58:59Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -102,10 +102,10 @@
    "title": "fix(test): repair the MLA prefill correctness gate",
    "status": "completed",
    "conclusion": "failure",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30375537769",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30375537769",
    "created_at": "2026-07-28T15:52:56Z",
    "updated_at": "2026-07-28T15:53:52Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -117,10 +117,10 @@
    "title": "Merge pull request #2 from JohnQinAMD/codex/dsv4-training-sparse-mla",
    "status": "completed",
    "conclusion": "cancelled",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30305172521",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30305172521",
    "created_at": "2026-07-27T21:02:41Z",
    "updated_at": "2026-07-28T15:58:10Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -132,10 +132,10 @@
    "title": "[Attention] Add gfx950 DSV4 sparse MLA training forward and backward",
    "status": "completed",
    "conclusion": "cancelled",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30304388844",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30304388844",
    "created_at": "2026-07-27T20:51:47Z",
    "updated_at": "2026-07-28T20:52:38Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -147,10 +147,10 @@
    "title": "Merge gfx950 DeepSeek-V4 sparse decode and AITER ASM benchmark",
    "status": "completed",
    "conclusion": "cancelled",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30300358991",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30300358991",
    "created_at": "2026-07-27T19:55:18Z",
    "updated_at": "2026-07-27T21:02:43Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -162,10 +162,10 @@
    "title": "[Kernel] Add gfx950 DeepSeek-V4 sparse decode and AITER ASM benchmark",
    "status": "completed",
    "conclusion": "cancelled",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30299872439",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30299872439",
    "created_at": "2026-07-27T19:48:41Z",
    "updated_at": "2026-07-28T19:49:27Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -177,10 +177,10 @@
    "title": "[Kernel] Add gfx950 DeepSeek-V4 sparse decode and AITER ASM benchmark",
    "status": "completed",
    "conclusion": "cancelled",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30295578419",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30295578419",
    "created_at": "2026-07-27T18:50:32Z",
    "updated_at": "2026-07-27T19:48:43Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -192,10 +192,10 @@
    "title": "[Kernel] Add gfx950 DeepSeek-V4 sparse decode and AITER ASM benchmark",
    "status": "completed",
    "conclusion": "cancelled",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30295536185",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30295536185",
    "created_at": "2026-07-27T18:49:58Z",
    "updated_at": "2026-07-27T18:50:49Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -207,10 +207,10 @@
    "title": "test(mla): harden attention validation harnesses",
    "status": "completed",
    "conclusion": "failure",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30137290875",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30137290875",
    "created_at": "2026-07-25T00:52:32Z",
    "updated_at": "2026-07-25T00:53:20Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   },
   {
@@ -222,10 +222,10 @@
    "title": "[CI] Make MLIR cache fallback reliable (#897)",
    "status": "completed",
    "conclusion": "cancelled",
-   "url": "https://github.com/JohnQinAMD/FlyDSL-amd/actions/runs/30136202193",
+   "url": "https://github.com/JohnQin-llm/FlyDSL-amd/actions/runs/30136202193",
    "created_at": "2026-07-25T00:24:22Z",
    "updated_at": "2026-07-25T00:52:34Z",
-   "actor": "JohnQinAMD",
+   "actor": "JohnQin-llm",
    "jobs": []
   }
  ]
